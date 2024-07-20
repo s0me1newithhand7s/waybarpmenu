@@ -1,0 +1,14 @@
+* {
+    font-family: Hack Regular;
+    font-size: 18px;
+    color: rgba(229, 120, 117, 1);
+    padding: 10px;
+    
+}
+
+window#waybar {
+    background: rgba(38, 3, 4, 0.85);
+    margin: 18px 0px 18px 18px;
+    border: 2px solid rgba(166, 27, 38, 1);
+    border-radius: 10px; 
+}
